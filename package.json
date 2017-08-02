@@ -1,0 +1,24 @@
+{
+  "name": "typescriptcourse",
+  "version": "1.0.0",
+  "description": "Type Script course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngJavierR/TypeScriptCourse.git"
+  },
+  "author": "Javier Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngJavierR/TypeScriptCourse/issues"
+  },
+  "homepage": "https://github.com/IngJavierR/TypeScriptCourse#readme",
+  "dependencies": {
+    "@types/knockout": "^3.4.43",
+    "@types/toastr": "^2.1.34",
+    "@types/jquery": "2.0.47"
+  }
+}
