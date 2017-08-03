@@ -1,0 +1,26 @@
+{
+  "name": "typescriptcourse",
+  "description": "Type Script course",
+  "main": "index.js",
+  "authors": [
+    "Javier Rodriguez"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/IngJavierR/TypeScriptCourse",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "toastr": "~2.1.3"
+  }
+}

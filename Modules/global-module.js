@@ -10,3 +10,4 @@ var Point = (function () {
 var p = new Point(3, 4);
 var dist = p.getDist();
 toastr.info('distance = ' + dist);
+//# sourceMappingURL=global-module.js.map
