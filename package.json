@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/IngJavierR/TypeScriptCourse#readme",
   "dependencies": {
+    "@types/jquery": "2.0.47",
     "@types/knockout": "^3.4.43",
+    "@types/requirejs": "^2.1.30",
     "@types/toastr": "^2.1.34",
-    "@types/jquery": "2.0.47"
+    "requirejs": "^2.3.4"
   }
 }

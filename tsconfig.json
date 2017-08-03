@@ -1,10 +1,13 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
+        "module": "amd",
         "target": "es5",
         "sourceMap": true
     },
     "files": [
-        "Modules/global-module.ts"
+        "AMD-jquery/alerter.ts",
+        "AMD-jquery/bootstrapper.ts",
+        "AMD-jquery/data-service.ts",
+        "AMD-jquery/main.ts"                
     ]
 }
